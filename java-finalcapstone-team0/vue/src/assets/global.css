@@ -1,0 +1,77 @@
+/* src/assets/global.css or src/styles/global.css */
+
+/* Reset some basic elements */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Set default font styles */
+  body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333;
+  }
+  
+  /* Define general container styling */
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Navigation bar styling */
+  .navigation {
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  .navigation a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+    font-size: 1.2em; /* Increase navigation text size */
+  }
+  
+  .navigation a:hover {
+    text-decoration: underline;
+  }
+  
+  /* General heading styles */
+  h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 20px;
+    color: #ff6600; /* Set to your desired color */
+  }
+  
+  /* Styling for images */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* General button styling */
+  button {
+    background-color: #ff6600;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 1em;
+  }
+  
+  button:hover {
+    background-color: #e65c00;
+  }
+  
+  /* Form elements */
+  input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Add more global styles as needed */
+
