@@ -1,0 +1,44 @@
+h1 {
+    font-size: 64px;
+    text-align: center;
+    color: maroon;
+}
+
+body {
+    background-color: gold;
+}
+
+img {
+    height: 200px;
+}
+
+h4 {
+    font-size: 42px;
+    color: blue;
+
+}
+
+h5 {
+    font-size: 18px;
+}
+
+h6 {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+li {
+    font-size: 24px;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+form {
+    background-color: gold;
+}
